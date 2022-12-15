@@ -1,0 +1,13 @@
+{
+    "name": "Aadil khan",
+    "location": "Guntur",
+    "skills": [
+      "js",
+      "python",
+      "sqlite"
+    ],
+    "companyInfo": {
+      "name": "Trangla",
+      "position": "Backend Developer"
+    }
+  }
