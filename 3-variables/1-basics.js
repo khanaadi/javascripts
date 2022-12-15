@@ -1,11 +1,13 @@
-
+// 1. Declartation
+// No value assigned to myName identifier (variable)
 var myName;
 
-myName = "Pathan Aadil Khan";
+// 2. Assigning value (any datatype) to myName identifier
+myName = "Pathan Aadil khan";
 
 
-
-var fullName = 'Pathan Aadil Khan';
+// Declaring variable and assigning value to it
+var fullName = 'Pathan Aadil khan';
 
 
 var firstName = 'Pathan';
